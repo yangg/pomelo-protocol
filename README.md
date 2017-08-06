@@ -1,4 +1,10 @@
-#pomelo-protocol
+# pomelo-protocol
+
+
+## Installation
+```bash
+npm install @brook@pomelo-protocol
+```
 
 Encode and decode binary protocol for Pomelo framework.
 
